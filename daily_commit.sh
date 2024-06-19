@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to your repository directory
-cd /path/to/your/repo
+cd ~/Desktop/git_contribution/100daysofcode
 
 # Update the log file with the current date and time
 echo "Log entry on $(date)" >> daily_log.txt
